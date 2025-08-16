@@ -43,8 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-<img width="1755" height="2481" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/78c5894e-83c2-4382-8e17-5cd6dfa65753" />
-
+C:\Users\Sweetha\Downloads\wmremove-transformed.png
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
